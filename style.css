@@ -1,0 +1,333 @@
+.navbar{
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+}
+.navbartxt
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #ffffff;
+}
+.navbarnews{
+    position: absolute;
+    width: 140px;
+    height: 51px;
+    left: 1160px;
+    top: 15px
+}
+.navbarnewstxt{
+    position: absolute;
+    width: 119px;
+    height: 21px;
+    left: 10px;
+    top: 10px;
+}
+.navbarhistory{
+    position: absolute;
+    width: 140px;
+    height: 51px;
+    left: 1350px;
+    top: 15px;
+}
+.navbarhistorytxt
+{
+    position: absolute;
+    width: 131px;
+    height: 21px;
+    left: 10px;
+    top: 10px;
+}
+.navbarpastcar
+{
+    position: absolute;
+    width: 140px;
+    height: 51px;
+    left: 1540px;
+    top: 15px;
+}
+.navbarpastcartxt
+{
+    position: absolute;
+    width: 142px;
+    height: 21px;
+    left: 0px;
+    top: 10px;
+}
+.navbarsponsor
+{
+    position: absolute;
+    width: 140px;
+    height: 51px;
+    left: 1730px;
+    top: 15px;
+}
+.navbarsponsortxt
+{
+    position: absolute;
+    width: 140px;
+    height: 21px;
+    left: 0px;
+    top: 10px;
+}
+.navbartitle
+{
+    position: absolute;
+    width: 500px;
+    height: 70px;
+    left: 70px;
+    top: 5px;
+}
+.navbartitletxt1
+{
+    position: absolute;
+    width: 300px;
+    height: 21px;
+    left: 0px;
+    top: 41px;
+}
+.navbartitletxt2
+{
+    position: absolute;
+    width: 241px;
+    height: 31px;
+    left: 0px;
+    top: 10px;
+
+    font-family: 'arial';
+    font-style: "thin";
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+
+    color: #ffffff;
+}
+.navbarline
+{
+    position: absolute;
+    width: 100px;
+    height: 0px;
+    left: 20px;
+    top: 41px;
+
+    border: 1px solid #D39328;
+}
+
+.background
+{
+    position: absolute;
+    width: 100%;
+    min-width: 500px;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    background-image: url("./image/pexels-matheus-bertelli-2467506.jpg");
+}
+.body
+{   
+
+}
+.textform
+{
+    position: absolute;
+    max-width: 1654px;
+    height: 534px;
+}
+.textform1
+{
+    left: 150px;
+    top: 1180px;
+}
+.textform2
+{
+    left: 100px;
+    top: 1914px;
+}
+.textform3
+{
+    left: 150px;
+    top: 2648px;
+}
+.textformtitle
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font: weight 300px;;
+    font-size: 50px;
+    line-height: 61px;
+    display: flex;
+    align-items: center;
+
+    color: #022D4D;
+}
+.textformtitleleft
+{
+    position: absolute;
+    width: 581px;
+    height: 37px;
+    left: 0px;
+    top: 114px;
+}
+.textformtitleright
+{
+    position: absolute;
+    width: 171px;
+    height: 34px;
+    left: 1150px;
+    top: 20px;
+}
+.decorteline
+{
+    position: absolute;
+    width: 50px;
+    height: 0px;
+
+    border: 3px solid #D39328;
+    transform: rotate(90deg);
+}
+.decortelineleft
+{
+    left: -30px;
+    top: 108px;
+}
+.decortelineright
+{
+    left: 1100px;
+    top: 12px;
+}
+.textformtext
+{
+    position: absolute;
+    width: 581px;
+    height: 208px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    
+    color: #022D4D;
+}
+.textformtextleft
+{
+    left: 0px;
+    top: 228px;
+}
+.textformtextright
+{
+    left: 1100px;
+    top: 132px;
+}
+.textformpicture1
+{
+    position: absolute;
+    width: 950px;
+    height: 534.38px;
+    left: 704px;
+    top: 0px;
+
+    background-image: url(./image/picture2.jpg);
+    filter: drop-shadow(5px 10px 5px rgba(0, 0, 0, 0.3));
+    border-radius: 46px;
+}
+.textformpicture2
+{
+    position: absolute;
+    width: 950px;
+    height: 534px;
+    left: 0px;
+    top: 0px;
+
+    background: url(pexels-george-sultan-1187675.jpg);
+    filter: drop-shadow(-5px 10px 5px rgba(0, 0, 0, 0.3));
+    border-radius: 46px;
+}
+.textformpicture3
+{
+
+}
+.circleline
+{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1000px;
+    height: 1000px;
+    border-radius: 999em;
+}
+.circleline1
+{   
+    left: -175px;
+    top: 908px;
+    border: 3px solid #D39328;
+}
+.circleline2
+{
+    left: 950px;
+    top: 1681px;
+    border: 3px solid #022D4D;
+}
+.circleline3
+{
+    left: -146px;
+    top: 2518px;
+    border: 3px solid #D39328;
+}
+
+
+.footer
+{
+    position: absolute;
+    width: 100%;
+    height: 200px;
+    left: 0px;  
+    bottom: 0px;
+
+    background: #022D4D;
+}
+.footerlogo
+{
+    position: absolute;
+    left: 70px;
+    top: 20px;
+}
+.footertxt
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+.footertxt1
+{
+    position: absolute;
+    width: 565px;
+    height: 30px;
+    left: 600px;
+    top: 60px;
+    font-size: 30px;
+    line-height: 36px;
+}
+.footertxt2
+{
+    position: absolute;
+    width: 350px;
+    height: 34px;
+    left: 600px;
+    top: 116px;
+    font-size: 17px;
+    line-height: 21px;
+}
