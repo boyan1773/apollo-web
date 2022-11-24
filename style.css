@@ -19,7 +19,7 @@
     position: absolute;
     width: 140px;
     height: 51px;
-    left: 1160px;
+    right: 620px;
     top: 15px
 }
 .navbarnewstxt{
@@ -33,7 +33,7 @@
     position: absolute;
     width: 140px;
     height: 51px;
-    left: 1350px;
+    right: 430px;
     top: 15px;
 }
 .navbarhistorytxt
@@ -49,7 +49,7 @@
     position: absolute;
     width: 140px;
     height: 51px;
-    left: 1540px;
+    right : 430px;
     top: 15px;
 }
 .navbarpastcartxt
@@ -65,7 +65,7 @@
     position: absolute;
     width: 140px;
     height: 51px;
-    left: 1730px;
+    right: 50px;
     top: 15px;
 }
 .navbarsponsortxt
