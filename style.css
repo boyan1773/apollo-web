@@ -255,34 +255,6 @@
 {
 
 }
-.circleline
-{
-    box-sizing: border-box;
-
-    position: absolute;
-    width: 1000px;
-    height: 1000px;
-    border-radius: 999em;
-}
-.circleline1
-{   
-    left: -175px;
-    top: 908px;
-    border: 3px solid #D39328;
-}
-.circleline2
-{
-    left: 950px;
-    top: 1681px;
-    border: 3px solid #022D4D;
-}
-.circleline3
-{
-    left: -146px;
-    top: 2518px;
-    border: 3px solid #D39328;
-}
-
 
 .footer
 {
