@@ -49,7 +49,7 @@
     position: absolute;
     width: 140px;
     height: 51px;
-    right : 430px;
+    right : 240px;
     top: 15px;
 }
 .navbarpastcartxt
@@ -135,6 +135,24 @@
 {   
 
 }
+.title
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font: weight 400px;;
+    font-size: 50px;
+    line-height: 61px;
+    display: flex;
+    align-items: center;
+}
+.text
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+}
 .textform
 {
     position: absolute;
@@ -151,23 +169,6 @@
     left: 100px;
     top: 1914px;
 }
-.textform3
-{
-    left: 150px;
-    top: 2648px;
-}
-.textformtitle
-{
-    font-family: 'Inter';
-    font-style: normal;
-    font: weight 300px;;
-    font-size: 50px;
-    line-height: 61px;
-    display: flex;
-    align-items: center;
-
-    color: #022D4D;
-}
 .textformtitleleft
 {
     position: absolute;
@@ -175,6 +176,7 @@
     height: 37px;
     left: 0px;
     top: 114px;
+    color: #022D4D;
 }
 .textformtitleright
 {
@@ -183,6 +185,7 @@
     height: 34px;
     left: 1150px;
     top: 20px;
+    color: #022D4D;
 }
 .decorteline
 {
@@ -193,37 +196,29 @@
     border: 3px solid #D39328;
     transform: rotate(90deg);
 }
-.decortelineleft
+.decortelineright
 {
     left: -30px;
     top: 108px;
 }
-.decortelineright
+.decortelineleft
 {
-    left: 1100px;
+    left:1070px;
     top: 12px;
 }
-.textformtext
-{
+.textformtextleft
+{   
     position: absolute;
     width: 581px;
     height: 208px;
-    
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 30px;
-    line-height: 36px;
-    
-    color: #022D4D;
-}
-.textformtextleft
-{
     left: 0px;
     top: 228px;
 }
 .textformtextright
-{
+{   
+    position: absolute;
+    width: 581px;
+    height: 208px;
     left: 1100px;
     top: 132px;
 }
@@ -251,11 +246,94 @@
     filter: drop-shadow(-5px 10px 5px rgba(0, 0, 0, 0.3));
     border-radius: 46px;
 }
-.textformpicture3
+.body2
+{
+    position: absolute;
+    width: 100%;
+    height: 756px;
+    left: 0px;
+    top: 2592px;
+}
+.body2textform1
+{
+    position: absolute;
+    width: 630px;
+    height: 307px;
+    left: 150px;
+    top: 225px;
+}
+.body2textformtitle
+{
+    position: absolute;
+    width: 581px;
+    height: 37px;
+}
+.body2textform1title
+{
+    left: 180px;
+    top: 231px;
+    color: #FFFFFF
+}
+.body2textform2title
+{
+    left: 0px;
+    top: 0px;
+    color: #FFFFFF
+}   
+.body2textform1text
+{
+    position: absolute;
+    width: 600px;
+    height: 207px;
+    left: 180px;
+    top: 325px;
+    color: #FFFFFF;
+}
+.body2textform2text
+{   
+    position: absolute;
+    width: 341px;
+    height: 245px;
+    left: 1445px;
+    top: 310px;
+    color: #FFFFFF;
+}
+.body3textform
+{
+    position: absolute;
+    width: 1014px;
+    height: 492px;
+    left: 453px;
+    top: 194px;
+}
+.body3title
+{
+    position: absolute;
+    width: 909px;
+    height: 72px;
+    left: 483px;
+    top: 194px;
+}
+.body3text
 {
 
 }
+.circle
+{
 
+}
+.circle1
+{
+
+}
+.circle2
+{
+
+}
+.percent
+{
+
+}
 .footer
 {
     position: absolute;
