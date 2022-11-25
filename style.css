@@ -312,23 +312,34 @@
 }
 .body3text
 {
-
+    position: absolute;
+    width: 891px;
+    height: 100px;
+    left: 483px;
+    top: 318px;
 }
 .circle
 {
-
+    width: 200px;
+    height: 200px;
+    border: 3 solid  #022D4D;
+    border-radius: 50%;
 }
 .circle1
 {
-
+    position: absolute;
+    left: 453px;
+    top: 486px;
 }
 .circle2
 {
-
+    position: absolute;
+    left: 961px;
+    top: 486px;
 }
 .percent
 {
-
+    
 }
 .footer
 {
